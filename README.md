@@ -1,5 +1,5 @@
 # Weplanet_Predictive_Modeling
-# 중고 전자기기 매입 가격 산정 모델 개발
+# 중고 시세 및 매입가 예측 모델 개발
 > **커널 어카데미 빅데이터 분석가(BDA) 26기 2조 프로젝트**
 
 <p align="left">
